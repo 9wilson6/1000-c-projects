@@ -1,0 +1,1 @@
+# This is a C program to check whether a given integer is positive or negative.
